@@ -1,4 +1,4 @@
-package Equação;
+package EquaÃ§Äƒo;
 
 import java.util.*;
 
@@ -21,6 +21,6 @@ public class Main{
 		  System.out.println("X1 = " + x1);
 		  System.out.println("X2 = " + x2);
 	    }
-		else System.out.println("Não é possivel calcular");
+		else System.out.println("NÄƒo Ã© possivel calcular");
   }
 }
